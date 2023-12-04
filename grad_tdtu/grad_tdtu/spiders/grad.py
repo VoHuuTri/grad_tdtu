@@ -82,4 +82,6 @@ class GD_DT_Spider(CrawlSpider):
                             f.write("\n")
                 self.titles.append(title)
 
+
+
         
